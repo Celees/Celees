@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Celees
 - 👀 I’m interested in programacion
 - 🌱 I’m currently learning desarrollo web
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
